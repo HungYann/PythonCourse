@@ -919,6 +919,52 @@ print(f"{'=' * 30}")
 
 ***
 
+### Homework2 示例
+
+
+
+**练习 1（基础）：** **定义三个变量分别存储你的名字、年龄、最喜欢的数字，然后用 f-string 打印一句话介绍自己。**&#x20;
+
+```python
+if __name__ == '__main__':
+   name = "Alle"
+   age = 18
+   number = 67
+
+   print(f"hello, my name is " + name + ", I am " + str(age) + ". My favorite number is " + str(number))
+```
+
+<figure><img src=".gitbook/assets/carbon.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+**练习 2（进阶）： 写一个"圆的计算器"：**
+
+```python
+if __name__ == '__main__':
+    pi = 3.14159
+    radius = float(input("请输入圆的半径"))
+    print(f"圆的周长是{2 * pi * radius}")
+    print(f"圆的面积是{pi * radius ** 2}")
+```
+
+<figure><img src=".gitbook/assets/carbon (1).png" alt="" width="288"><figcaption></figcaption></figure>
+
+
+
+**练习 3（挑战）：** 摄氏度转华氏度：接收摄氏度，输出对应的华氏度。 公式：`F = C × 9/5 + 32`
+
+
+
+```
+if __name__ == '__main__':
+    pi = 3.14159
+    C = float(input("请输入摄氏度"))
+    print(f"对应的华氏度是{C * 9 / 5 + 32 }")
+```
+
+<figure><img src=".gitbook/assets/carbon (2).png" alt="" width="282"><figcaption></figcaption></figure>
+
 
 
 ***
