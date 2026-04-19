@@ -782,19 +782,18 @@ print("=" * 36)
 **第五课：**&#x6761;件判断与循环控制
 
 ```python
-# 你将学会把重复的代码封装成函数：
-def calculate_grade(score):
-    """根据分数返回等级"""
-    if score >= 90:
-        return "优秀"
-    elif score >= 60:
-        return "及格"
-    else:
-        return "不及格"
-
+# 成绩列表
 scores = [95, 72, 55, 88]
+
+# 使用循环逐个处理成绩
 for s in scores:
-    print(f"{s} 分 → {calculate_grade(s)}")
+    # 条件判断
+    if s >= 90:
+        print(f"{s} 分 → 优秀")
+    elif s >= 60:
+        print(f"{s} 分 → 及格")
+    else:
+        print(f"{s} 分 → 不及格")
 ```
 
 ***
