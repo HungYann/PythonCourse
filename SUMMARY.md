@@ -8,5 +8,6 @@
 * [第四课：列表、元组、字典、集合](di-si-ke-lie-biao-yuan-zu-zi-dian-ji-he.md)
 * [第五课：条件判断与循环控制](di-wu-ke-tiao-jian-pan-duan-yu-xun-huan-kong-zhi.md)
 * [第六课：函数定义与调用、作用域](di-liu-ke-han-shu-ding-yi-yu-diao-yong-zuo-yong-yu.md)
+* [第七课：文件读写与异常处理](di-qi-ke-wen-jian-du-xie-yu-yi-chang-chu-li.md)
 * [附录A：Markdown 完全指南](fu-lu-amarkdown-wan-quan-zhi-nan.md)
 * [附录B：Python基础综合项目研究方向](fu-lu-bpython-ji-chu-zong-he-xiang-mu-yan-jiu-fang-xiang.md)
