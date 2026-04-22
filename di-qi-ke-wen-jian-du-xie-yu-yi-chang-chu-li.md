@@ -685,4 +685,4 @@ print(response.status_code)   # 200
 
 ***
 
-_最后更新：2024 年 | Python 基础（从零起飞）系列 第 7 课 / 共 10 课_
+_最后更新：2026 年 | Python 基础（从零起飞）系列 第 7 课 / 共 10 课 Power by Andrew Liu_
