@@ -10,5 +10,6 @@
 * [第六课：函数定义与调用、作用域](di-liu-ke-han-shu-ding-yi-yu-diao-yong-zuo-yong-yu.md)
 * [第七课：文件读写与异常处理](di-qi-ke-wen-jian-du-xie-yu-yi-chang-chu-li.md)
 * [第八课：模块与包、pip 使用](di-ba-ke-mo-kuai-yu-bao-pip-shi-yong.md)
+* [第九课：面向对象编程基础（类与对象）](di-jiu-ke-mian-xiang-dui-xiang-bian-cheng-ji-chu-lei-yu-dui-xiang.md)
 * [附录A：Markdown 完全指南](fu-lu-amarkdown-wan-quan-zhi-nan.md)
 * [附录B：Python基础综合项目研究方向](fu-lu-bpython-ji-chu-zong-he-xiang-mu-yan-jiu-fang-xiang.md)
