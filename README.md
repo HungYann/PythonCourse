@@ -71,82 +71,13 @@ AI 编程是标配\
 
 
 
-#### 第二阶段：数据分析 用数据说话
-
-11\
-NumPy 数组与向量化运算\
-12\
-Pandas 入门：DataFrame 与 Series\
-13\
-数据清洗：缺失值、重复值、异常值\
-14\
-数据聚合、分组与透视表\
-15\
-Matplotlib & Seaborn 数据可视化\
-16\
-SQL 基础 + Python 连接数据库\
-17\
-数据爬取：requests + BeautifulSoup\
-18\
-探索性数据分析（EDA）方法论\
-19\
-Jupyter Notebook 进阶技巧\
-20\
-阶段项目：真实数据集分析报告 Project (Gradio 、Dash )
+####
 
 
 
-#### 第三阶段  AI编程 机器学习实战
 
 
 
-21\
-AI 辅助编程：Copilot / Cursor 实战 AI\
-22\
-机器学习概念：监督 / 无监督 / 强化\
-23\
-Scikit-learn 入门：线性回归\
-24\
-分类算法：逻辑回归、决策树\
-25\
-模型评估：交叉验证、混淆矩阵\
-26\
-特征工程与数据预处理\
-27\
-深度学习入门：神经网络原理\
-28\
-PyTorch / TensorFlow 快速上手\
-29\
-LLM API 调用：OpenAI / Claude / Gemini AI\
-30\
-RAG 基础：向量数据库 + 知识库\
-31\
-Agent 入门：LangChain / 工具调用\
-32\
-阶段项目：AI 应用原型（含 LLM） Project&#x20;
-
-
-
-#### 第四阶段 应用开发项目合集&#x20;
-
-
-
-33\
-GitHub + Python作品集系统搭建\
-34\
-Python作品表达：从代码到项目说明\
-35\
-Python可视化应用开发（核心起点）\
-36\
-Vibe Coding in Python（一）：AI辅助开发\
-37\
-Vibe Coding in Python（二）：完整应用上线\
-38\
-Python项目结构化设计（工程化思维）\
-39\
-创作者Showcase：你的作品发布会 （一）\
-40\
-创作者Showcase：你的作品发布会 （二）
 
 
 
