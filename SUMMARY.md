@@ -13,5 +13,6 @@
 * [第九课：面向对象编程基础（类与对象）](di-jiu-ke-mian-xiang-dui-xiang-bian-cheng-ji-chu-lei-yu-dui-xiang.md)
 * [第十课：阶段项目——Streamlit Web 应用](di-shi-ke-jie-duan-xiang-mu-streamlit-web-ying-yong.md)
 * [第 11 课｜会议纪要工厂：从原始文本到结构化纪要，10 秒完成](di-11-ke-hui-yi-ji-yao-gong-chang-cong-yuan-shi-wen-ben-dao-jie-gou-hua-ji-yao-10-miao-wan-cheng.md)
+* [第 12 课｜竞品逆向：抓取竞品数据，10 分钟摸清产品逻辑](di-12-ke-jing-pin-ni-xiang-zhua-qu-jing-pin-shu-ju-10-fen-zhong-mo-qing-chan-pin-luo-ji.md)
 * [附录A：Markdown 完全指南](fu-lu-amarkdown-wan-quan-zhi-nan.md)
 * [附录B：Python基础综合项目研究方向](fu-lu-bpython-ji-chu-zong-he-xiang-mu-yan-jiu-fang-xiang.md)
