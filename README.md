@@ -71,19 +71,49 @@ AI 编程是标配\
 
 
 
-####
+#### 第二阶段：产品设计 × Python 实战
+
+11 会议纪要工厂：原始文本 → 结构化纪要，10 秒完成 \
+12 竞品逆向：一张截图反推产品逻辑\
+13 需求清洗：海量用户反馈 → 可执行产品需求\
+14 文档工厂：一句话指令生成完整 PRD\
+15 原型演示：自然语言描述 → 可点击交互 Demo\
+16 数据看板：业务数据 → 5 秒看懂结论\
+17 情报雷达：AI 资讯自动汇总，每天推送\
+18 数据仓库接入：SQL + Python 支撑产品数据查询\
+19 EDA 方法论：探索性分析标准工作流\
+20 阶段项目：产品助理工具箱（9 工具集成） Project
 
 
 
+### **第三阶段：理解 Skill 系统 & MCP**
+
+21 Skill 系统初探：一次封装解锁无限复用 \
+22 创建第一个 Skill：把需求清洗脚本封装成 Skill\
+23 Skill 进阶：references/ + agents/ + 三层目录\
+24 MCP 基础：让 Claude 直接调用你的 Python 函数\
+25 配置使用现有 MCP 服务器\
+26 用 Python 封装 MCP Server：让 Claude 调用你的数据工具\
+27 MCP + Skill 整合：工作流一键调度 MCP 工具
+
+### **第四阶段：掌握 Harness 工程**
 
 
 
+28 CLAUDE.md + /harness-init：为项目立宪 \
+29 AGENTS.md 实战：Sprint Contract 方法论\
+30 Hooks + 权限 + Sub-agents\
+31 上下文压缩 + 计划优先原则\
+32 FastAPI + Claude API：构建 AI 对话后端\
+33 Python MCP Server 上云：让全世界调用你的工具\
+34 完整应用架构：四层打通 Streamlit → FastAPI → Claude → MCP\
+35 阶段项目：AI 数据助手上线 Project
 
 
 
 ### 常用工具
 
-Latex 、 Vim&#x20;
+Latex 、 Vim 、claude (codex)
 
 ### 课程教材
 
