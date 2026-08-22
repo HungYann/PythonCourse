@@ -16,6 +16,7 @@
 * [第 12 课｜竞品逆向：抓取竞品数据，10 分钟摸清产品逻辑](di-12-ke-jing-pin-ni-xiang-zhua-qu-jing-pin-shu-ju-10-fen-zhong-mo-qing-chan-pin-luo-ji.md)
 * [第 13 课｜需求清洗：海量用户反馈 → 可执行产品需求](di-13-ke-xu-qiu-qing-xi-hai-liang-yong-hu-fan-kui-ke-zhi-xing-chan-pin-xu-qiu.md)
 * [第 14 课｜文档工厂：一句话指令生成完整 PRD](di-14-ke-wen-dang-gong-chang-yi-ju-hua-zhi-ling-sheng-cheng-wan-zheng-prd.md)
+* [第 15 课｜AI 原型设计：一句话需求 → 可交互产品 Demo](di-15-ke-ai-yuan-xing-she-ji-yi-ju-hua-xu-qiu-ke-jiao-hu-chan-pin-demo.md)
 * [第 16 课｜数据看板：业务数据 → 5 秒看懂结论](di-16-ke-shu-ju-kan-ban-ye-wu-shu-ju-5-miao-kan-dong-jie-lun.md)
 * [第 17 课｜情报雷达：AI 资讯自动汇总，每天定时推送](di-17-ke-qing-bao-lei-da-ai-zi-xun-zi-dong-hui-zong-mei-tian-ding-shi-tui-song.md)
 * [第 18 课｜数据仓库接入：SQL + Python 支撑产品数据查询](di-18-ke-shu-ju-cang-ku-jie-ru-sql-+-python-zhi-cheng-chan-pin-shu-ju-cha-xun.md)
