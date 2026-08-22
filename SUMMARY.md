@@ -16,5 +16,6 @@
 * [第 12 课｜竞品逆向：抓取竞品数据，10 分钟摸清产品逻辑](di-12-ke-jing-pin-ni-xiang-zhua-qu-jing-pin-shu-ju-10-fen-zhong-mo-qing-chan-pin-luo-ji.md)
 * [第 13 课｜需求清洗：海量用户反馈 → 可执行产品需求](di-13-ke-xu-qiu-qing-xi-hai-liang-yong-hu-fan-kui-ke-zhi-xing-chan-pin-xu-qiu.md)
 * [第 14 课｜文档工厂：一句话指令生成完整 PRD](di-14-ke-wen-dang-gong-chang-yi-ju-hua-zhi-ling-sheng-cheng-wan-zheng-prd.md)
+* [第 15 课｜原型演示：自然语言描述 → 可点击交互 Demo](di-15-ke-yuan-xing-yan-shi-zi-ran-yu-yan-miao-shu-ke-dian-ji-jiao-hu-demo.md)
 * [附录A：Markdown 完全指南](fu-lu-amarkdown-wan-quan-zhi-nan.md)
 * [附录B：Python基础综合项目研究方向](fu-lu-bpython-ji-chu-zong-he-xiang-mu-yan-jiu-fang-xiang.md)
